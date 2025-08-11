@@ -39,7 +39,7 @@ Projeto realizado para a disciplina FrameWorks do 2º Semestre no curso de Siste
 
 1. **Clone o repositório**  
    ```bash
-   git clone https://github.com/seu-usuario/banco-digital.git
+   git clone https://github.com/ValeryAlves/FRAMEWORKS-Conta-Digital.git
    cd banco-digital
 2. Abra o arquivo index.html no navegador.
 3. Faça login para acessar a tela inicial simulada (inicio.html). 
